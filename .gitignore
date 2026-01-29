@@ -1,2 +1,9 @@
 # Project exclude paths
 /out/
+/build/
+/dist/
+.vscode/
+.idea/
+*.iml
+*.class
+package-lock.json
