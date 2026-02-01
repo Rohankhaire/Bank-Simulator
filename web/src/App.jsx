@@ -363,7 +363,7 @@ export default function App() {
   const store = useStore();
 
   return (
-    <Router basename="/Atm_Simulator_Application">
+    <Router basename="/Bank-Simulator">
       <div className="app-container">
         <Header />
         <main style={{ flex: 1 }}>
